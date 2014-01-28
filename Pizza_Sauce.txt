@@ -1,12 +1,14 @@
-# Ingredients
+# Pizza Sauce
+
+## Ingredients
 
 * 2 cans chopped Tomatoes
-* 1 Tablespoon Garlic (Or to taste)
-* 1 Pinch Red Pepper (Or to taste)
-* 1 Tablespoon Oregano (Or to taste)
-* 1 Tablespoon Italian Seasoning. (Or to taste)
+* 1 Tablespoon Garlic 
+* 1 Pinch Red Pepper 
+* 1 Tablespoon Oregano 
+* 1 Tablespoon Italian Seasoning. 
 
-# Steps
+## Steps
 
 1. In a pan, heat up the garlic.
 2. Add other ingredients.
